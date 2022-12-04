@@ -1,0 +1,8 @@
+we have to learn python number;
+addition
+subtraction
+multiplication
+division
+list
+tuples
+sets
